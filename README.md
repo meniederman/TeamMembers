@@ -20,7 +20,7 @@ This repository houses a Team Profile Generator that takes in information about 
 
 ### Deployed Website
 
-![deployed](./assets/images/image1.png)
+No website was deployed for this application.
 
 ## Requirements
 ```
