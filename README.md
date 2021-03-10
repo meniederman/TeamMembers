@@ -58,5 +58,6 @@ Any feedback is encouraged and appreciated for future improvements.
 
 ## Credits
 
-Maryann Niederman 2021'
+Maryann Niederman 2021
+
 UNCC Bootcamp - Starter code 2021
